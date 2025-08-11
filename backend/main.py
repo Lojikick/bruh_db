@@ -9,6 +9,7 @@ from auth_service import AuthService, UserCreate, UserLogin  # Add this
 from config import get_settings  # Add this
 import logging
 
+#Finna gonna make an itty bitty change!
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
